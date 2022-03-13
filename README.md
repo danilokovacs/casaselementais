@@ -7,7 +7,7 @@ batalham entre si sendo que só podem haver duas casas por batalha e uma vencedo
 
 Primeiro passo:
 <br>
-[Script de criação do banco de dados]()
+[Script de criação do banco de dados](script_casaselementais.sql)
 
 # Desafios:
 
